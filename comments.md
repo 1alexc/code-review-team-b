@@ -26,7 +26,7 @@ Your team has done a solid job in implementing the tasks from the `README.md`. T
    - Try tackling this ticket again using `getElementsByTagName`. Remember to define a variable so you can call it when you log to the console.
 
 - **Ticket 1d & 1e**:
-    - Excellent use of querySelector and querySelectorAll. Your code is clean and correctly identifies the target elements. Just ensure consistency in your variable naming conventions. Complete Ticket 1d before 1e, then you may see the for loop used wasn't necessary.
+    - Excellent use of `querySelector` and `querySelectorAll`. Your code is clean and correctly identifies the target elements. Just ensure consistency in your variable naming conventions. Complete Ticket 1d before 1e, then you may see the for loop used wasn't necessary.
 
 ### **Ticket 2: Traversing the DOM**
     
@@ -51,14 +51,14 @@ Your team has done a solid job in implementing the tasks from the `README.md`. T
     - The code for creating and appending a new paragraph was well done. To make the code more reusable, consider creating a function that can add elements dynamically based on parameters (e.g., tag type, text content).
 
 - **Ticket 3d**:
-    - Try to tackle this ticket again, as you have not added a title attribute with the value “Hover over me!” using JavaScript.
+    - Try to tackle this ticket again, as you have not added a `title` attribute with the value “Hover over me!” using JavaScript.
 
 - **Ticket 3e**:
-    - Give this ticket another go as the Banana still has it's class as a list-item. Consult with the TutorBot or a coach if you need help.
+    - Give this ticket another go as the Banana still has it's class as a `list-item`. Consult with the TutorBot or a coach if you need help.
 
 - **Ticket 3f**:
-    - Have another look at completing this ticket, as the Date content is stil showing on the page. Look into using a `querySelector` and `nth-child`.
-      ```
+    - Have another look at completing this ticket, as the Date content is still showing on the page. Look into using a `querySelector` and `nth-child`.
+
 
 ### **General Recommendations**
 
